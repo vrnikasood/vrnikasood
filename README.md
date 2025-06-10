@@ -18,13 +18,13 @@ Always exploring new AI innovations and how they can simplify complex developmen
 ## SQL-NL Translator
 An end-to-end web application that converts SQL queries into natural language descriptions using JavaScript, Flask, and MySQL. Deployed on Render for easy access.
 
-# GitHub Profile Search Tool
+## GitHub Profile Search Tool
 A dynamic, asynchronous JavaScript app that fetches and displays GitHub user profiles through the GitHub API. Features smooth UI and real-time search.
 
-# WordPress CRM Tool
+## WordPress CRM Tool
 A beginner-friendly  custom-built CRM tool developed as a WordPress plugin to help businesses manage customer relationships efficiently,that I’m currently developing to deepen my understanding of PHP and plugin architecture.
 
-# GlowGenius
+## GlowGenius
 An innovative project that is a  web-based  platform that helps users discover personalized cosmetic and skincare products without the overwhelm. Designed with simplicity and purpose, it offers concern-based solutions (like acne, dryness, or pigmentation) and category-based browsing (serums, moisturizers, lipsticks, etc.), allowing users to explore products that match their needs and preferences
 
 ## 🌐 Socials:
