@@ -15,7 +15,7 @@ Always exploring new AI innovations and how they can simplify complex developmen
 
 ## 🚀 Key Projects
 
-# SQL-NL Translator
+## SQL-NL Translator
 An end-to-end web application that converts SQL queries into natural language descriptions using JavaScript, Flask, and MySQL. Deployed on Render for easy access.
 
 # GitHub Profile Search Tool
