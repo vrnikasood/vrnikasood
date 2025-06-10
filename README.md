@@ -3,6 +3,29 @@
 # 💫 About Me:
 🚀 I’m currently working on building full-stack web applications using JavaScript, Python (Flask), and MySQL.<br>🤝 I’m looking to collaborate on open-source projects involving API development and CMS platforms.<br> 🛠️ I’m looking for help with learning PHP and WordPress plugin development.<br> 🌱 I’m currently learning PHP, WordPress architecture, and OOP best practices.<br>❓ Ask me about JavaScript, REST APIs, MySQL, and backend development.<br> 🎉 Fun fact: I love automating workflows and have built an SQL-to-Natural Language Translator!
 
+## 🤖 AI & Tech Enthusiast
+
+I’m passionate about leveraging AI tools and automation to boost productivity and creativity. Some of my favorite tools and platforms:
+
+- **Cursor** — AI-powered code completion for faster development  
+- **n8n** — Workflow automation to connect apps and APIs seamlessly  
+- **Lovable** — Engaging with AI-driven tools to enhance software usability
+
+Always exploring new AI innovations and how they can simplify complex development workflows!
+
+## 🚀 Key Projects
+
+### SQL-NL Translator
+An end-to-end web application that converts SQL queries into natural language descriptions using JavaScript, Flask, and MySQL. Deployed on Render for easy access.
+
+### GitHub Profile Search Tool
+A dynamic, asynchronous JavaScript app that fetches and displays GitHub user profiles through the GitHub API. Features smooth UI and real-time search.
+
+### WordPress CRM Tool
+A beginner-friendly  custom-built CRM tool developed as a WordPress plugin to help businesses manage customer relationships efficiently,that I’m currently developing to deepen my understanding of PHP and plugin architecture.
+
+### GlowGenius
+An innovative project that is a  web-based  platform that helps users discover personalized cosmetic and skincare products without the overwhelm. Designed with simplicity and purpose, it offers concern-based solutions (like acne, dryness, or pigmentation) and category-based browsing (serums, moisturizers, lipsticks, etc.), allowing users to explore products that match their needs and preferences
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varnikasood) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varnikasood77@gmail.com) 
