@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 I’m currently working on building full-stack web applications using JavaScript, Python (Flask), and MySQL.<br>🤝 I’m looking to collaborate on open-source projects involving API development and CMS platforms.<br> 🛠️ I’m looking for help with learning C# and WordPress plugin development.<br> 🌱 I’m currently learning C#, WordPress architecture, and OOP best practices.<br>❓ Ask me about JavaScript, REST APIs, MySQL, and backend development.<br> 🎉 Fun fact: I love automating workflows and have built an SQL-to-Natural Language Translator!
+🚀 I’m currently working on building full-stack web applications using JavaScript, Python (Flask), and MySQL.<br>🤝 I’m looking to collaborate on open-source projects involving API development and CMS platforms.<br> <br> 🌱 I’m currently learning C#, WordPress architecture, and OOP best practices.<br>❓ Ask me about JavaScript, REST APIs, MySQL, and backend development.<br> 🎉 Fun fact: I love automating workflows and have built an SQL-to-Natural Language Translator!
 
 ## 🤖 AI & Tech Enthusiast
 
